@@ -5,7 +5,7 @@ A simple JavaScript project that allows users to switch between **Dark Mode** an
 ## 🚀 Features
 
 * Switch to Dark Mode
-* Switch to Light Mode
+* Switch to Light Mode 
 * Instant theme change
 * Beginner-friendly project
 * Built with pure JavaScript
